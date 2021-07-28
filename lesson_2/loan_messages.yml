@@ -1,0 +1,8 @@
+welcome: "Welcome to Monthly Loan Calculator!"
+loan_amount: "What is the loan amount in USD?"
+apr: "What is the annual percentage rate?"
+duration: "What is the loan duration in years?"
+invalid_loan: "Please enter a valid loan amount."
+invalid_apr: "Please enter a valid APR amount."
+invalid_duration: "Please enter a valid duration in years."
+another_calc: "Would you like to perform another loan calculation (enter 'Y' if yes)?"
